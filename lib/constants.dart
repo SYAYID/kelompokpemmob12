@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 const kMainColor = Color(0xffffc12f);
-const grey = Color(0xff003cff);
+const blue = Color(0xff003cff);
 const kSecondaryColor = Color(0xFFFFE6AC);
 const white = Color(0xFFFFFFFF);
 const kProductName = 'productName';
